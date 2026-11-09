@@ -1,0 +1,40 @@
+Home Credit logo
+Source: https://www.homecredit.ph/
+Asset: https://www.homecredit.ph/dam/jcr:f8f42554-077c-4929-9d73-51d70c9ef9fd/hc-logo.2023-08-03-13-19-13.svg
+Downloaded unchanged for the user-requested Home Credit-branded demo.
+Home Credit names and logos belong to their respective owners.
+No affiliation or endorsement is implied. This asset is not covered by the
+MIT license for the geographic data below.
+
+Metro Manila boundary data
+Source: https://github.com/faeldon/philippines-json-maps
+Release: https://github.com/faeldon/philippines-json-maps/releases/tag/v1.1.1
+Archive: geojson-hires.zip
+Archive SHA256: d6aedda878af0884f112d992183639df61f5e74af380cf71a589055f9437a348
+Files: geojson/provdists/hires/municities-provdist-130{39,74,75,76}00000.0.1.json
+The 17 NCR features are combined unchanged in scripts/ncr-boundaries.geojson.
+High-resolution boundaries retain 10% of source vertices and are for
+visualization, not legal or cadastral use. Transformed to locally bundled
+SVG paths with latitude-corrected, centered projection by scripts/prepare-map.mjs.
+
+MIT License
+
+Copyright (c) James Faeldon.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
